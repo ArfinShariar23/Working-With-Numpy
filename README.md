@@ -2,7 +2,9 @@
 In this Repository I will add My Some Numpy Work File Work File 
 
 What is Numpy?
+
 -Numpy Stands for Numerical Python.
+
 -A Python Package for Scientific Computing like
    * Discrete Fourier Transform
    * Basic Linear Algebra
@@ -10,8 +12,11 @@ What is Numpy?
    
    
 Why Numpy?
+
  - It's Fast
+ 
  - It's Need Less Memory
+ 
  - The core of the numpy package is the ndarray object.
  
  
