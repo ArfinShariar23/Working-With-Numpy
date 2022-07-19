@@ -30,7 +30,10 @@ Shape = (4,)
 ----------------- 
 9.1 | 0.1 | 0.3 |
 -----------------
-Axis = 1
+
+There will be 2 axis in 2D Array
+Axis = 0 { up -down }
+Axis = 1 { right - left}
 Shape = (2,3)
 
 3D Array
