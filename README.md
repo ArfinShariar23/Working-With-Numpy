@@ -1,7 +1,7 @@
 # Working-With-Numpy
 In this Repository I will add My Some Numpy Work File Work File 
 
-What is Numpy?
+What is Numpy:
 
 -Numpy Stands for Numerical Python.
 
@@ -11,7 +11,7 @@ What is Numpy?
    * Basic Statical Operations
    
    
-Why Numpy?
+Why Numpy:
 
  - It's Fast
  
